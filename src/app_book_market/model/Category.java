@@ -1,6 +1,6 @@
 package app_book_market.model;
 
-public class Book {
+public class Category {
     private long id;
     private String name;
 
